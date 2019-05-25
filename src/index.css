@@ -1,0 +1,14 @@
+.logo {
+ 
+  height: 31px;
+ /*  background: rgba(255,255,255,.2); */
+  margin: 16px 28px 16px 0;
+  float: left;
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 30px;
+}
+.logIn{
+	float: right;
+}
